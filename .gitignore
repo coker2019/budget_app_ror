@@ -1,4 +1,4 @@
-/node_modules/
+
 /.bundle
 
 # Ignore all environment files (except templates).
@@ -27,3 +27,4 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+/node_modules/
