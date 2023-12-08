@@ -8,8 +8,6 @@ RSpec.describe Category, type: :model do
       expect(association.class_name).to eq('User')
     end
 
-
-
     it 'has many category_payments' do
       association = described_class.reflect_on_association(:category_payments)
       expect(association.macro).to eq(:has_many)
