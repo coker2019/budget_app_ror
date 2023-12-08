@@ -44,7 +44,7 @@ Expense Breakdown Summary**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](/)
+- [Live Demo Link](https://postgre-budget.onrender.com/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
