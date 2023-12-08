@@ -46,6 +46,8 @@ Expense Breakdown Summary**
 
 - [Live Demo Link](https://postgre-budget.onrender.com/)
 
+[Presentation Video](https://www.loom.com/share/c4f94d72f732496d807fea3ebb6c259f?sid=90db33f3-046f-4734-8901-d20309897160)
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Setup <a name="setup"></a>
